@@ -1,0 +1,17 @@
+{
+    "name": "@lumeweb/relay-plugin-afraid",
+    "type": "module",
+    "version": "0.1.0",
+    "scripts": {
+        "build": "node build.js"
+    },
+    "devDependencies": {
+        "@lumeweb/relay-types": "https://github.com/LumeWeb/relay-types.git",
+        "@types/node": "^18.7.16",
+        "@types/xml2js": "^0.4.11",
+        "esbuild": "^0.15.7"
+    },
+    "dependencies": {
+        "xml2js": "^0.4.23"
+    }
+}
